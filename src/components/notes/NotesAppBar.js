@@ -41,13 +41,13 @@ export const NotesAppBar = () => {
                     className="btn"
                     onClick={handlePictureClick}
                 >
-                    Picture
+                    Foto
                 </button>
                 <button 
                     className="btn"
                     onClick={handleSave}
                 >
-                    Save
+                    Guardar
                 </button>
             </div>
         </div>

@@ -4,8 +4,8 @@ export const NothingSelected = () => {
     return (
         <div className="nothing__main-content">
             <p>
-                <h3> Select something</h3>
-                <span>pr create an entry! <i className="far fa-star"></i></span>
+                <h3> Seleccione algo.!</h3>
+                <span> o creee una nueva entrada! <i className="far fa-star"></i></span>
                 
             </p>
             

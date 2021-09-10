@@ -31,7 +31,7 @@ export const Sidebar = () => {
                     className="btn"
                     onClick={handleLogout}
                 >
-                    Logout
+                    Salir
                 </button>
             </div>
             <div 
@@ -40,7 +40,7 @@ export const Sidebar = () => {
                 >
                 <i className="far fa-calendar-plus fa-5x"></i>
                 <p className="mt-5">
-                    New entry
+                    Nueva Entrada
                 </p>
             </div>
 
